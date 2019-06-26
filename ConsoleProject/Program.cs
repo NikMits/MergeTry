@@ -11,5 +11,8 @@ namespace ConsoleProject
         static void Main(string[] args)
         {
         }
+        public static int sum(int a, int b) => a + b;
+        public static int mult(int a, int b) => a * b;
+        
     }
 }
